@@ -1,0 +1,30 @@
+body {
+  background-color: #29d3f1;
+  background-image: url(gambar/bg.jpg);
+}
+.wrap {
+  width: 90%;
+  margin: auto;
+  color: rgb(241, 237, 237);
+  border-radius: 90px;
+  font-family: comic sans ms;
+  font-size: 30px;
+  font-display: white;
+  background-color: transparent;
+}
+.container {
+  padding: 10px;
+}
+table {
+  margin: -20px;
+}
+table td {
+  padding: 20px;
+}
+button {
+  width: 50px;
+  font-family: comic sans ms;
+  height: 30px;
+  background-color: #51f129;
+  border-radius: 7px;
+}
