@@ -1,4 +1,4 @@
-# Lab9Web
+# Lab9Web  & Lab10Web
 # Nama  : Miftahul Jannah
 # Kelas : TI19B2
 # NIM   : 311910740
@@ -30,3 +30,16 @@
 # 7. Ubah.php Lab 8
 ![Screenshot (95)](https://user-images.githubusercontent.com/81582495/121025752-b1cb9900-c7cf-11eb-8eed-89a779a40cba.png)
 
+# Latihan Praktikum 10
+
+# 1. mobil.php
+![Screenshot (106)](https://user-images.githubusercontent.com/81582495/121180321-ecded280-c88a-11eb-9dfd-e313946b3fe7.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/81582495/121179713-3aa70b00-c88a-11eb-934d-b6acb4e22794.png)
+
+# 2. form.php
+![Screenshot (105)](https://user-images.githubusercontent.com/81582495/121180315-ebada580-c88a-11eb-82b0-9eb7c518cffe.png)
+![Screenshot (102)](https://user-images.githubusercontent.com/81582495/121179708-3975de00-c88a-11eb-9a37-f3aaedf18ff2.png)
+
+# 3. form_input.php
+![Screenshot (104)](https://user-images.githubusercontent.com/81582495/121180305-e94b4b80-c88a-11eb-8c5c-3563de1be008.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/81582495/121179699-37138400-c88a-11eb-8d30-ffc11c84a8b0.png)
